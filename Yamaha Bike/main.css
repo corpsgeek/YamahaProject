@@ -13,6 +13,15 @@ html, body{
     
    
 }
+.mainBody{
+   
+   background-image: url('newyork-city-minimalism-4p-1920x1080.jpg');
+    
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto','Montserrat', sans-serif;
+    
+   }
 header{
     height: 35px;
     background-color: #000000;
